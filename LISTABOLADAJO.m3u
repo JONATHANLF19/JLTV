@@ -1,0 +1,139 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="URL DA LOGO" group-title="TABELA", NOME DO CANAL
+
+##########################################TV AO VIVO############################################################################################
+
+
+#########################################ABERTOS##########################################################################################
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAL "DESENHO", Globo
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_62fb7a6e6c7ea3a35b7797e2fa17cd431fcffe8f.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="CANAL "DESENHO", SBT
+http://edge.aovivo.club/hls/s:155.138.227.156/sbtsp_2a5ac580_9b056538b784f24548c1f20a4865ff8303b72251/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="CANAL "DESENHO", RedeTV
+http://edge.aovivo.club/hls/s:45.32.217.66/redetv_45cbe19f_25d5281e14612228690cc57594e30ce6502ce925/270p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="CANAL "DESENHO", Record
+http://edge.aovivo.club/hls/s:45.32.217.66/record_3554dce5_92412eac4217fa03426d3a25915f0995f3f88769/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="CANAL "DESENHO", Band
+http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_1cf740bc9a6765ee17b5c3b0adc2b2d5311a8381/playlist.m3u8
+
+#########################################INFANTIS##########################################################################################
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="CANAL "DESENHO", Cartoon Network 
+http://edge.aovivo.club/hls/s:155.138.227.45/cartoonnetwork_511a418e_9a41248dd5d032793a0725cef3cf370fe291eb4b/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="CANAL "DESENHO", Disney Channel
+http://edge.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_21a6e943e928609175802cf3ba82fae03009b3ea.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/80-807349_nickelodeon-logo-png-logos-in-orange-colour-transparent.png" group-title="CANAL "DESENHO", Nickelodeon
+http://edge.aovivo.club/hls/s:155.138.226.22/nickelodeon_bc33ea4e_1b4b460bd8addb57e9ee95919bf3f175245109ba/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="CANAL "DESENHO", Disney XD
+http://edge.aovivo.club/hls/s:155.138.227.45/disneyxd_d094700e_6d8cd08c882506f0798da2dda3a4a063b3412a25/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tooncast.jpg/revision/latest?cb=20181126152705&path-prefix=pt-br"CANAL "DESENHO", Tooncast
+http://edge.aovivo.club/hls/s:155.138.227.45/tooncast_8effee40_78a32370bf2af9f500374233ee2090bb64b4a492/480p/chunklist.m3u8
+
+######################################FILMES/SÉRIES###########################################################################################
+
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/detail/54-542720_fox-logo-logo-fox-tv-png.png" group-title="CANAL "Filmes e Séries", FOX
+http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_2c2af53ac08b85dfcf7a98cbfb63bf002c15dd55.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/mtv.png" group-title="CANAL "Filmes e Séries", MTV Brasil
+http://edge.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_deca26ac8b5b32ecc4cc0e308ea435fe3654d718.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/e.png" group-title="CANAL "Filmes e Séries", E! Entertainment
+http://edge.aovivo.club/hls/s:95.216.15.44:81/eentertainment_fe2fb474_ec0301fc7cf38e4a6fd2cf9caa4b6e999a0e97d0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/comedycentral.png" group-title="CANAL "Filmes e Séries", Comedy Central
+http://edge.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_add9ab1088c974d413b416b15a107dcc78d799aa.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/gnt.png" group-title="CANAL "Filmes e Séries", GNT
+http://edge.aovivo.club/hls/s:155.138.226.22/gnt_c439c60b_dac13f93bb9d1dbc4d69a5cc5979ba306924d99a/410p/chunklist.m3u8
+
+######################################ESPORTES###########################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/0/3/11/imgbin-espn-espn3-logo-espn-events-tcm-logo-mFMNuxVVcqdDsCJv9QPBaFM4W.jpg"CANAL "Esportes", Espn Plus
+http://edge.aovivo.club/hls/s:95.216.15.44:81/espn_6c1e671f_35b61fcf0ec3703bbdb3c0756d6d2508c419df0c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png"CANAL "Esportes", Espn 
+http://edge.aovivo.club/hls/s:95.216.15.44:81/espn_6c1e671f_35b61fcf0ec3703bbdb3c0756d6d2508c419df0c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9J6L6RvEcm8/U75eIwN_BGI/AAAAAAAAQeE/cQnKqSVxaTU/s1600/espn-brasil.jpg"CANAL "Esportes", Espn Brasil
+http://edge.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_0eb26268b70e1460b90e514797a7ae6ca79b3dce/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports.png"CANAL "Esportes", Fox Sports
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_950bea4869e0ca97d0d0e71bb471647240724825.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxsports2.png"CANAL "Esportes", Fox Sports 2
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_5c7910a549664921cca2ffb89efa42baffadc65c.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sportv.png"CANAL "Esportes", SporTV
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_ac64469c1640d838554f1d196e76c6ab212c3ea0/playlist.m3u8
+
+######################################DOCUMENTÁRIOS###########################################################################################
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png"CANAL "Documentários", National Geographic
+http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_77c9360bca877ae55b17d4f10cedb47e1757def4/720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png"Documentários", History
+http://edge.aovivo.club/hls/s:45.32.217.66/history_b7eb6c68_525c6273c1a1ff8aad4cb20b00878988da90ee55/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryturbo.png", Discovery Turbo
+http://edge.aovivo.club/hls/s:45.32.217.66/discoveryturbo_ca3512f4_85253859fc3349e5466fbf1e46458ea5d4e56ef3/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/animalplanet.png", Animal Planet
+http://edge.aovivo.club/hls/s:155.138.226.22/animalplanet_e114c448_2fb99f753978b445d78e807834c66fd79e32cc25/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discoveryscience.png", Discovery Science
+http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryscience_77c8184f_4c004b9c6d39fd7bed7de6561d7a19445670cdf6.m3u8
+
+#######################################FILMES#################################################################################################
+
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/25/22/31/3513181.jpg" group-title="CANAL "FILMES",MIB 4 - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/Spider-man-far-from-home-poster.jpg/250px-Spider-man-far-from-home-poster.jpg" group-title="CANAL "FILMES", Homem-Aranha: Longe de Casa (Legendado) - Filme 2019  
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSALEG.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://www.folhadevalinhos.com.br/sites/default/files/galeria_artigos/xmen-_fenix_negra.png" group-title="CANAL "FILMES", X-Men: Fênix Negra (Dublado) - Filme 2019  
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/XMENFNXNGRA.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/03/12/17/42/1157358.jpg" group-title="CANAL "FILMES", Aladdin (Dublado) - Filme 2019  
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/ALDN.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://www.grupoestacao.com.br/site/images/posters/P%C3%B4ster%20-%20La%C3%A7os.jpg" group-title="CANAL "FILMES", Turma da Mônica: Laços (Nacional) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TRMDMNCLCS.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://universomovieforward.files.wordpress.com/2018/10/hellboy.jpg?w=1090" group-title="CANAL "FILMES", Hellboy (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HLBOY.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg" group-title="CANAL "FILMES", Vingadores: Ultimato (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO4K.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/21254-cartaz.jpg" group-title="CANAL "FILMES", Capitã Marvel (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/CPTMRVL.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video123/v4/bc/0e/b0/bc0eb0ee-031e-7510-00b0-6465549537f7/pr_source.lsr/268x0w.png" group-title="CANAL "FILMES", Pokémon: Detetive Pikachu (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PKMNDTCTVPKCH.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/HTB16VbDJlLoK1RjSZFuq6xn0XXam/Battle-Angel-Alita-personalizado-Decora-o-Da-Parede-Da-Lona-Poster-Adesivos-de-Parede-Filme-de.jpg" group-title="CANAL "FILMES", Alita: Anjo de Combate (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/ALITANGDCMBT.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/02/21/21/08/3735597.jpg" group-title="CANAL "FILMES", Shazam! (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/SHRZM.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/homem-aranha-no-aranhaverso-blu-ray-hd-dublado-D_NQ_NP_739135-MLB31682226473_082019-F.jpg" group-title="CANAL "FILMES", Homem-Aranha No Aranhaverso (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/HOMARNHNARNVRSO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dumbo-dublado-2019-D_NQ_NP_633134-MLB31120560843_062019-F.jpg" group-title="CANAL "FILMES", Dumbo (Dublado) - Filme 2019 
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/DMBO.mp4?attachment=true
+
