@@ -8,7 +8,7 @@
 #########################################ABERTOS##########################################################################################
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="CANAL "DESENHO", Globo
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_62fb7a6e6c7ea3a35b7797e2fa17cd431fcffe8f.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_77716e2a39eb13fc3281a1b5ca32f68159380ae0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="CANAL "DESENHO", SBT
 http://edge.aovivo.club/hls/s:155.138.227.156/sbtsp_2a5ac580_9b056538b784f24548c1f20a4865ff8303b72251/410p/chunklist.m3u8
